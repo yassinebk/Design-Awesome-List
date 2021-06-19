@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: beige;
+  border: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+p {
+  font-size: 2.5rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin: 10px 0px;
+}
+form {
+  height: 80vh;
+  margin: 0 auto;
+  width: 500px;
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 1em;
+}
+
+li {
+  list-style: none;
+  margin: 10px 10px;
+  size: 100px;
+}
+label {
+  margin-right: 10px;
+  font-size: 1.2rem;
+  color: gray;
+  text-align:right; 
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  height: 25px;
+  border-color: burlywood;
+  border-radius: 10px;
+  border-style: dotted;
+  box-shadow: 10px black;
+}
+
+textarea {
+  width: 100%;
+  text-align: center;
+  height: 150px;
+  border-color: burlywood;
+  border-radius: 10px;
+  border-style: dotted;
+  box-shadow: 10px black;
+}
+
+textarea,
+input {
+  outline: 2px rgb(182, 106, 6);
+  font-size: 1.2rem;
+  padding: 5px;
+  color: rgb(65, 62, 62);
+}
+
+textarea::focus,
+input::focus {
+  display: none;
+}

@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(85, 120, 165);
+  padding: 40px;
+  height: 100vh;
+}
+.Anecdote {
+  font-size: 30px;
+  color: Black;
+  height: 140px;
+}
+.Votes {
+  font-size: 28px;
+  color: Black;
+}
+.container {
+  color: Black;
+  text-align: left;
+  font-size: 20px;
+}
+
+button {
+  width: 200px;
+  color: rgb(93, 15, 104);
+  height: 70px;
+  font-size: 20px;
+  background-color: rgb(106, 149, 212);
+  border-color: rgb(54, 147, 163);
+  border-radius: 20px;
+  margin-left: 20px;
+}
