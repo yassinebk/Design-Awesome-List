@@ -29,6 +29,7 @@ https://www.youtube.com/watch?v=wpmHZspl4EM&list=PLttcEXjN1UcHZj_6PaZYyh9PzPFgKH
 
 ###References
 - https://www.reddit.com/r/Design/comments/mfqu9/lets_make_a_list_of_design_resources/ : You can find everything here
+- https://99designs.com/blog/design-resources/graphic-design-resources/
 
 
 ###Torrents Because We are all broke
