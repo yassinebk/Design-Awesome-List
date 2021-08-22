@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=jFfd0RYax5k&list=PL7JpMMpENaD3KL_lvmw4eS5U5AD746
 - https://www.youtube.com/watch?v=c9Wg6Cb_YlU&t=3089s
 - https://www.youtube.com/watch?v=keoL0B7NaEs&list=PLFW6ct83_wC_N-IrrU60lH4G0dV6u1B4n : Playlist with short videos
 
-##Articles
+## Articles
 
 https://www.webdesignerdepot.com/
 
@@ -46,7 +46,7 @@ https://www.webdesignerdepot.com/
 - https://1337x.to/torrent/3812692/Udemy-The-Ultimate-Photoshop-Graphic-Design-Course-2019/
 - https://1337x.to/torrent/4134990/Udemy-The-Ultimate-Photoshop-Graphic-Design-Course-2020-FTU/
 
-####Web:
+#### Web:
 
 - https://1337x.to/torrent/4845815/Udemy-Front-End-Web-Design-UX-CSS-FLEXBOX-SASS-Complete-Course/
 
