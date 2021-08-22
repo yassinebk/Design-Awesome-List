@@ -40,7 +40,9 @@ https://www.webdesignerdepot.com/
 - https://www.reddit.com/r/Design/comments/mfqu9/lets_make_a_list_of_design_resources/ : You can find everything here
 - https://99designs.com/blog/design-resources/graphic-design-resources/
 
-### Torrents Because We are all broke ####Photoshop
+### Torrents Because We are all broke - Download Links 
+
+#### Photoshop
 
 - https://1337x.to/torrent/3812692/Udemy-The-Ultimate-Photoshop-Graphic-Design-Course-2019/
 - https://1337x.to/torrent/3748904/Udemy-Photoshop-CC-2019-MasterClass/
