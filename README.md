@@ -10,7 +10,8 @@ https://www.youtube.com/watch?v=wpmHZspl4EM&list=PLttcEXjN1UcHZj_6PaZYyh9PzPFgKH
 ## General Websites
 
 https://www.linkedin.com/learning/?trk=lynda_redirect_learning : Lynda but u have to make an account with a uni email
-##Photoshop
+
+## Photoshop
 
 https://www.youtube.com/watch?v=U_X5uR7VC4M&list=PLD19BCF9D57320E03
 
